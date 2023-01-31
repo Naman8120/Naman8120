@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Naman
-- 👀 I’m interested in DevOps roles
-- 🌱 I’m currently Working DevOps Enginner at Cloud.in
+- 👋 Hi, I’m @Naman Sharma
+- 👀 I’m interested in Cloud,DevOps
+- 🌱  I’m currently learning multicloud technologies and Devops
+- 📫 How to reach me https://www.linkedin.com/in/naman-sh/
 
 
 <!---
